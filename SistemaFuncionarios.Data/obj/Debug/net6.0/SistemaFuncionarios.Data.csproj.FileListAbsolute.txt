@@ -1,0 +1,12 @@
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaFuncionarios.API\SistemaFuncionarios.Data\bin\Debug\net6.0\SistemaFuncionarios.Data.deps.json
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaFuncionarios.API\SistemaFuncionarios.Data\bin\Debug\net6.0\SistemaFuncionarios.Data.dll
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaFuncionarios.API\SistemaFuncionarios.Data\bin\Debug\net6.0\SistemaFuncionarios.Data.pdb
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaFuncionarios.API\SistemaFuncionarios.Data\obj\Debug\net6.0\SistemaFuncionarios.Data.csproj.AssemblyReference.cache
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaFuncionarios.API\SistemaFuncionarios.Data\obj\Debug\net6.0\SistemaFuncionarios.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaFuncionarios.API\SistemaFuncionarios.Data\obj\Debug\net6.0\SistemaFuncionarios.Data.AssemblyInfoInputs.cache
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaFuncionarios.API\SistemaFuncionarios.Data\obj\Debug\net6.0\SistemaFuncionarios.Data.AssemblyInfo.cs
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaFuncionarios.API\SistemaFuncionarios.Data\obj\Debug\net6.0\SistemaFuncionarios.Data.csproj.CoreCompileInputs.cache
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaFuncionarios.API\SistemaFuncionarios.Data\obj\Debug\net6.0\SistemaFuncionarios.Data.dll
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaFuncionarios.API\SistemaFuncionarios.Data\obj\Debug\net6.0\refint\SistemaFuncionarios.Data.dll
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaFuncionarios.API\SistemaFuncionarios.Data\obj\Debug\net6.0\SistemaFuncionarios.Data.pdb
+C:\Users\yuria\Desktop\Curso .NET C#\SistemaFuncionarios.API\SistemaFuncionarios.Data\obj\Debug\net6.0\ref\SistemaFuncionarios.Data.dll
