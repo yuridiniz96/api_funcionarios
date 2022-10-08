@@ -7,6 +7,19 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+#region Configuração do CORS
+
+builder.Services.AddCors(
+    s => s.AddPolicy("DefaultPolicy", builder =>
+    {
+        builder.AllowAnyOrigin() //qualquer servidor de origem pode acessar a API
+               .AllowAnyMethod() //qualquer método (POST, PUT, DELETE, GET)
+               .AllowAnyHeader(); //qualquer parâmetro de cabeçalho (HEADER)
+    })
+);
+
+#endregion
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -15,6 +28,12 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+#region habilitar o CORS
+
+app.UseCors("DefaultPolicy");
+
+#endregion
 
 app.UseAuthorization();
 
